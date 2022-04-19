@@ -1,0 +1,4 @@
+This folder contains .m and .fig files.
+
+.fig files are matlab figures containing plots that were used in the paper.
+.m files require Comsol and the comsol addon 'Matlab Livelink' to access data from the .mph files and are used to generate .fig files and .pdf files containing data plots.
