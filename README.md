@@ -9,7 +9,7 @@ An older preprint of the text is available at: https://www.biorxiv.org/content/1
 1) The base Comsol Multiphysics software package (https://www.comsol.com/).
 2) (Optional) The Matlab Livelink addon for Comsol Multiphysics.
 
-**The main model file is: "2022-18-04 NQT Model File - Small Size - ACG"**
+**The main model file is: "2022-18-04 NQT Model File - Small Size - ACG.mph"**
 
 You will be able to open this with just the base package of Comsol. This file was the template file which was modified for all other variations.
 Remember to compute the solution after accessing the model file for the first time.
