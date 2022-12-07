@@ -1,8 +1,8 @@
 # vestibularHairCellCalyxNQT
 Welcome to the file repository for the research paper: 
-***"Nonquantal Transmission at the Vestibular Hair Cell-Calyx Synapse: KLV Currents Modulate Fast Electrical and Slow K+ Potentials in the Synaptic Cleft"***
+***"Nonquantal Transmission at the Vestibular Hair Cell-Calyx Synapse: KLV Currents Modulate Fast Electrical and Slow K+ Potentials"***
 
-**Paper Status:** Awaiting peer review.
+**Paper Status:** Accepted by PNAS. Awaiting Publication.
 
 An older preprint of the text is available at: https://www.biorxiv.org/content/10.1101/2021.11.18.469197v1
 
