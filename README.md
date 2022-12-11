@@ -8,9 +8,7 @@ An older preprint of the text is available at: https://www.biorxiv.org/content/1
 
 **Repository Status:** 
 
-Model files used to generate the data in the paper are available ("Draft 12" series).
-
-A cleaned and updated template file is also provided: "2022-12-05 VHCC Model Template.mph"
+Model files used to generate the data in the paper are available ("Draft 12" series). A PDF of the Supporting Information is also provided: "2022-12-11 Supporting Information.pdf". A cleaned and updated template file is also provided: "2022-12-05 VHCC Model Template.mph". Optional files to help with figure generation or linking with matlab are also available. Please see below.
 
 For questions, assistance, or bug reports please feel free to contact me at: user@domain.edu ; user = ag105; domain = rice.
 
