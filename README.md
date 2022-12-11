@@ -12,7 +12,7 @@ Model files used to generate the data in the paper are available ("Draft 12" ser
 
 A cleaned and updated template file is also provided: "2022-12-05 VHCC Model Template.mph"
 
-For questions or assistance, please feel free to contact me at: user@domain.edu ; user = ag105; domain = rice.
+For questions, assistance, or bug reports please feel free to contact me at: user@domain.edu ; user = ag105; domain = rice.
 
 **Requirements:**
 1) The base Comsol Multiphysics software package (https://www.comsol.com/).
