@@ -17,12 +17,4 @@ For questions, assistance, or bug reports please feel free to contact me at: use
 2) (Optional) The Matlab Livelink addon for Comsol Multiphysics.
 
 The provided .mph files can be opened with the base package of Comsol.
-Remember to compute the solution after accessing the model files for the first time.
-
-Optional Files:
-Two types of matlab files are provided:
-1) (_Upload pending_) Figure generating files (.m) - These files generate matlab figures of the data presented in the paper and require the use of the Matlab Livelink addon to interface between comsol and matlab. Please note that you may have to update file paths within the scripts to work with your downloaded files.
-2) Figures (.fig) 
-
-Adobe Illustrator was used to layout the different plots generated using matlab and to improve visual representation of the data.
-
+Remember to compute the solution after accessing the model files for the first time. Variables of interest can then be ploted using the results section in the comsol gui.
