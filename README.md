@@ -11,7 +11,7 @@ An older preprint of the text is available at: https://www.biorxiv.org/content/1
 Model files used to generate the data in the paper are available ("Draft 12" series). A PDF of the Supporting Information is also provided: "2022-12-11 Supporting Information.pdf". A cleaned and updated template file is also provided: "2022-12-05 VHCC Model Template.mph".
 
 For questions, assistance, or bug reports please feel free to contact me at: user@domain.edu ; user = ag105; domain = rice; 
-or at: user@gmail.com; user: g.aravind.c
+or at: user@gmail.com; user = g.aravind.c
 
 Newer iterations of the model are being developed, if you are interested in collaborating or helping implement improvements to different aspects of the model, please get in touch.
 
